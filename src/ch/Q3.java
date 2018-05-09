@@ -1,7 +1,7 @@
 package ch;
 /*
  * ch包为1z0-808example测试的题目
- * 当继承了一个private
+ * static方法只能被隐藏，不能被覆盖。
  * 
  */
 public class Q3 extends Writer {

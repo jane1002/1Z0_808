@@ -45,7 +45,7 @@ public class Test1 {
 		}
 		
 		
-		Test2 t2=new Test2();
+		T2 t2=new T2();
 		t2.aodian(4);
 		
 		
@@ -56,7 +56,7 @@ public class Test1 {
 }
 
 
-class Test2{
+class T2{
 	public void setShuzu(){
 		
 	}

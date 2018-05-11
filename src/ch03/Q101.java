@@ -10,11 +10,11 @@ public class Q101 {
 			
 			StringBuilder str2=new StringBuilder("123456789");
 			str2.substring(0,3);
-			str2.append("XX");
-			
+			str2.append("XX");			
 			System.out.println(str2);
 			
 			
 			
 		}
 }
+

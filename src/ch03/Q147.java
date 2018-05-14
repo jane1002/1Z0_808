@@ -9,7 +9,7 @@ public class Q147 {
 			 
 			for (int jj = 3; jj > 0; jj--) {
 				if (ii == jj) {  
-					count++;
+					++count;
 					break;
 				}
 			 

@@ -13,6 +13,6 @@ abstract class X{
 	public abstract void methodX();
 }
 
-interface Y{
-	public void methodY();
-}
+//interface Y{
+//	public void methodY();
+//}

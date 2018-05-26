@@ -11,7 +11,7 @@ public class Q95 extends A2 {
 		tp.m1();
 		 
 		tp.m2();
-		 
+		
 		tp.m3();
 	}
 

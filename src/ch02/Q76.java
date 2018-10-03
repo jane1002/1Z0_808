@@ -7,6 +7,7 @@ public class Q76 {
 		// TODO Auto-generated method stub
 		double p,b,h;
 //		if(area==0){
+		System.out.println(area == 0.0);
 		if(true){
 			b=3;
 			h=4;

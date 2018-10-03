@@ -10,9 +10,10 @@ public class Q80 {
 			Q80 t=new Q80();
 //			t.fvar=200;
 			t.fvar=200;
-			Q80.cvar=400;
+			cvar = 400;
+			//Q80.cvar=400;
 			
-			int iVar=100;
+			/*int iVar=100;
 			float fVar=100.100f;
 			double dVar=123;
 			
@@ -20,6 +21,6 @@ public class Q80 {
 			dVar=fVar;
 			System.out.println(fVar);
 			System.out.println(dVar);
-			t.aa(dVar);
+			t.aa(dVar);*/
 		}
 }

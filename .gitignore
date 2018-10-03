@@ -1,0 +1,6 @@
+.idea/
+.settings/
+*.java
+bin/*/*
+src/
+bin/
